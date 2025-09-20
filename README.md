@@ -1,6 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green?logo=openai)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🤖 ChatBot com Voz e IA 🇧🇷🇺🇸
 
-Este projeto é um ChatBot inteligente com suporte a voz, microfone e integração com modelos de IA via OpenRouter. Ele responde em português ou inglês, com sotaque brasileiro ou americano, e possui interface interativa via Streamlit.
+Este projeto é um ChatBot inteligente com suporte a voz, microfone e integração com modelos de IA via OpenRouter. Ele responde em português ou inglês, com sotaque brasileiro ou americano, e possui interface interativa via Streamlit ok.
 
 ---
 

@@ -3,13 +3,15 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green?logo=openai)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-# 🤖 ChatBot com Voz e IA 🇧🇷🇺🇸
+# 🤖 ChatBot com Voz e IA — Pity-AI 🇧🇷🇺🇸
 
 <p align="center">
-  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/1.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
+  <a href="https://bit.ly/4gFaLUA" target="_blank">
+    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/1.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
+  </a>
 </p>
 
-Este projeto é um ChatBot inteligente com suporte a voz, microfone e integração com modelos de IA via OpenRouter. Ele responde em português ou inglês, com sotaque brasileiro ou americano, e possui interface interativa via Streamlit.
+Sistema inteligente de conversação com suporte a voz, integração com modelos de IA via OpenRouter e interface interativa via Streamlit. Ideal para aplicações em atendimento, educação, produtividade e acessibilidade.
 
 🔗 **Acesse o app online:** [https://bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)
 
@@ -33,8 +35,7 @@ git clone https://github.com/LeandroTimoteo/chatbot-python.git
 cd chatbot-python
 pip install -r requirements.txt
 
-https://bit.ly/4gFaLUA
-
+📦 Estrutura do Projeto
 chatbot-python/
 ├── modules/
 │   ├── app.py
@@ -48,12 +49,29 @@ chatbot-python/
 ├── requirements.txt
 └── README.md
 
-📸 Interface
-Fundo azul escuro (#1565c0)
+🧰 Tecnologias Utilizadas
+Python 3.10
 
-Bandeiras 🇧🇷 e 🇺🇸 no topo
+Streamlit
 
-Seletor de estilo de voz
+OpenRouter API
 
-Histórico de conversa com IA
+Pyttsx3
+
+SpeechRecognition
+
+dotenv
+
+📘 Sobre o Projeto
+O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido em Python com Streamlit. Ele utiliza modelos de linguagem via OpenRouter para gerar respostas naturais e contextuais, podendo ser usado em português ou inglês com sotaques ajustáveis.
+
+Este projeto foi criado com foco em acessibilidade, experiência do usuário e integração rápida com APIs modernas.
+
+📄 Licença
+Este projeto é open-source sob a licença MIT.
+
+📬 Contato
+
+🙌 Agradecimentos
+Agradeço à comunidade Python e aos desenvolvedores da OpenRouter e Streamlit por fornecerem ferramentas incríveis que tornam projetos como este possíveis.
 

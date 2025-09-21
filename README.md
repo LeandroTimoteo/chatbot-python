@@ -61,6 +61,8 @@ Este projeto é open-source sob a licença MIT.
 
 Autor: Analista de Sistemas Leandro Timóteo
 
+https://bit.ly/4gFaLUA
+
 
 
 

@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://bit.ly/4gFaLUA" target="_blank">
-    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/1.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
+    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/modules/images/1.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
   </a>
 </p>
+
 
 Sistema inteligente de conversação com suporte a voz, integração com modelos de IA via OpenRouter e interface interativa via Streamlit. Ideal para aplicações em atendimento, educação, produtividade e acessibilidade.
 

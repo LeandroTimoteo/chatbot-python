@@ -1,6 +1,3 @@
-import whisper
-
 def transcribe_audio(audio_path):
-    model = whisper.load_model("base")
-    result = model.transcribe(audio_path)
-    return result["text"]
+    # Simulação de transcrição para ambientes sem Whisper
+    return "⚠️ Transcrição de áudio não disponível nesta versão online."

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green?logo=openai)
@@ -69,3 +70,6 @@ Autor: Analista de Sistemas Leandro Timóteo
 
 
 
+=======
+# chatbot-python
+>>>>>>> 4948e7b78464466545cdd00a6767347ea1454e46

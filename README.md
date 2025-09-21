@@ -7,10 +7,9 @@
 
 <p align="center">
   <a href="https://bit.ly/4gFaLUA" target="_blank">
-    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/modules/images/1.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
+    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/ilustracao-de-icone-de-chatbot-vetorial_1058698-1480.jpg?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
   </a>
 </p>
-
 
 Sistema inteligente de conversação com suporte a voz, integração com modelos de IA via OpenRouter e interface interativa via Streamlit. Ideal para aplicações em atendimento, educação, produtividade e acessibilidade.
 
@@ -36,6 +35,12 @@ git clone https://github.com/LeandroTimoteo/chatbot-python.git
 cd chatbot-python
 pip install -r requirements.txt
 
+Crie o arquivo .env com sua chave da API:
+OPENROUTER_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
+
+OPENROUTER_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
+streamlit run modules/app.py
+
 📦 Estrutura do Projeto
 chatbot-python/
 ├── modules/
@@ -46,7 +51,7 @@ chatbot-python/
 ├── env/
 │   └── .env
 ├── images/
-│   └── 1.png
+│   └── ilustracao-de-icone-de-chatbot-vetorial_1058698-1480.jpg
 ├── requirements.txt
 └── README.md
 
@@ -71,8 +76,11 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 📄 Licença
 Este projeto é open-source sob a licença MIT.
 
-📬 Contato
+📬 Contato: Analalista de Sistemas  Leandro Timóteo
+
+[![E-mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:leandrinhots6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/leandro-timóteo-ads/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/leandrinho_fi/)
 
 🙌 Agradecimentos
 Agradeço à comunidade Python e aos desenvolvedores da OpenRouter e Streamlit por fornecerem ferramentas incríveis que tornam projetos como este possíveis.
-

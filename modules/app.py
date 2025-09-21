@@ -1,7 +1,3 @@
-# 🧠 Correção do bug do PyTorch com Streamlit
-import torch
-torch.classes.__path__ = []
-
 # 📦 Imports principais
 import streamlit as st
 import io
@@ -15,7 +11,7 @@ load_dotenv()
 # 🎙️ Módulos locais
 from audio_recorder_streamlit import audio_recorder
 from transcribe import transcribe_audio
-from speak import speak_text, detectar_idioma
+from speak import speak_text
 from online import gerar_resposta_online
 
 # 🔧 Configuração da página
@@ -41,7 +37,6 @@ st.markdown("""
 🇧🇷 <strong>ChatBot</strong> 🇺🇸
 </div>
 """, unsafe_allow_html=True)
-
 
 # 🎛️ Seletor de estilo de voz
 voz_estilo = st.radio(
@@ -77,9 +72,9 @@ for msg in st.session_state.messages:
         st.markdown(msg["content"])
 
 # 🎙️ Entrada do usuário
-st.write("🎤 Speak or type your question below:")
+st.write("🎤 Fale ou digite sua pergunta abaixo:")
 audio_bytes = audio_recorder()
-user_prompt = st.chat_input("Type your question...")
+user_prompt = st.chat_input("Digite sua pergunta...")
 
 # 🎧 Se não digitou, tenta usar o áudio
 if not user_prompt and audio_bytes:
@@ -123,7 +118,7 @@ if user_prompt and user_prompt.strip():
 
     st.session_state.messages.append({"role": "assistant", "content": resposta_texto})
 
-    # 🔊 Gera áudio com pyttsx3
+    # 🔊 Gera áudio com gTTS ou outro método
     if resposta_texto.strip():
         audio_path = speak_text(resposta_texto, idioma_selecionado)
 

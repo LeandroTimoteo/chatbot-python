@@ -1,4 +1,3 @@
-# 📦 Imports principais
 import streamlit as st
 import io
 import wave
@@ -18,7 +17,7 @@ from online import gerar_resposta_online
 st.set_page_config(page_title="💬 ChatBot - Brazilian Intelligence", layout="centered")
 st.title("🤖 ChatBot Pity-AI")
 
-# 🎨 Fundo azul escuro
+# 🎨 Estilo visual
 st.markdown("""
     <style>
         body, .stApp {
@@ -31,52 +30,44 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# 🌍 Bandeiras no topo
+# 🌍 Bandeiras
 st.markdown("""
 <div style='text-align: center; font-size: 24px; margin-top: -10px;'>
 🇧🇷 <strong>ChatBot</strong> 🇺🇸
 </div>
 """, unsafe_allow_html=True)
 
-# 🎛️ Seletor de estilo de voz
-voz_estilo = st.radio(
-    "Escolha o estilo de voz:",
-    ["🇧🇷 Brasileiro", "🇺🇸 Americano"],
-    horizontal=True
-)
-
+# 🎛️ Estilo de voz
+voz_estilo = st.radio("Escolha o estilo de voz:", ["🇧🇷 Brasileiro", "🇺🇸 Americano"], horizontal=True)
 idioma_selecionado = "pt" if voz_estilo == "🇧🇷 Brasileiro" else "en"
 st.caption(f"🗣️ Estilo de voz selecionado: {'Português 🇧🇷' if idioma_selecionado == 'pt' else 'Inglês 🇺🇸'}")
 
-# 💬 Histórico de conversa
+# 💬 Histórico
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# 🗣️ Mensagem de boas-vindas falada (uma vez)
+# 🗣️ Boas-vindas
 if "boas_vindas" not in st.session_state:
     st.session_state.boas_vindas = True
-    st.markdown(
-        """
+    st.markdown("""
         <script>
         var msg = new SpeechSynthesisUtterance("Olá! Eu sou o ChatBot. Pode falar comigo.");
         msg.lang = "pt-BR";
         window.speechSynthesis.speak(msg);
         </script>
-        """,
-        unsafe_allow_html=True
-    )
+    """, unsafe_allow_html=True)
 
-# 💬 Exibe histórico de mensagens
+# 💬 Exibe mensagens anteriores
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
-# 🎙️ Entrada do usuário
+# 🎙️ Entrada
 st.write("🎤 Fale ou digite sua pergunta abaixo:")
 audio_bytes = audio_recorder()
 user_prompt = st.chat_input("Digite sua pergunta...")
 
-# 🎧 Se não digitou, tenta usar o áudio
+# 🎧 Transcrição simulada
 if not user_prompt and audio_bytes:
     wav_bytes = io.BytesIO(audio_bytes)
     wav_bytes.name = "audio.wav"
@@ -100,7 +91,7 @@ if not user_prompt and audio_bytes:
         st.error(f"Erro na transcrição: {e}")
         user_prompt = None
 
-# 🤖 Gera resposta com IA se houver pergunta válida
+# 🤖 Gera resposta
 if user_prompt and user_prompt.strip():
     st.session_state.messages.append({"role": "user", "content": user_prompt.strip()})
 
@@ -118,7 +109,7 @@ if user_prompt and user_prompt.strip():
 
     st.session_state.messages.append({"role": "assistant", "content": resposta_texto})
 
-    # 🔊 Gera áudio com gTTS ou outro método
+    # 🔊 Gera áudio com gTTS
     if resposta_texto.strip():
         audio_path = speak_text(resposta_texto, idioma_selecionado)
 
@@ -130,11 +121,9 @@ if user_prompt and user_prompt.strip():
         else:
             st.warning("⚠️ O áudio não foi gerado corretamente.")
 
-        # 🗣️ Fala no navegador (fallback)
+        # 🗣️ Fala no navegador
         lang_code = "en-US" if idioma_selecionado == "en" else "pt-BR"
-
-        st.markdown(
-            f"""
+        st.markdown(f"""
             <script>
             var msg = new SpeechSynthesisUtterance({repr(resposta_texto)});
             msg.lang = "{lang_code}";
@@ -143,6 +132,5 @@ if user_prompt and user_prompt.strip():
             msg.volume = 1.0;
             window.speechSynthesis.speak(msg);
             </script>
-            """,
-            unsafe_allow_html=True
-        )
+        """, unsafe_allow_html=True)
+

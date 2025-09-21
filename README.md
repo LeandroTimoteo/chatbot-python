@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green?logo=openai)
@@ -6,7 +5,13 @@
 
 # 🤖 ChatBot com Voz e IA 🇧🇷🇺🇸
 
-Este projeto é um ChatBot inteligente com suporte a voz, microfone e integração com modelos de IA via OpenRouter. Ele responde em português ou inglês, com sotaque brasileiro ou americano, e possui interface interativa via Streamlit ok.
+<p align="center">
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/1.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
+</p>
+
+Este projeto é um ChatBot inteligente com suporte a voz, microfone e integração com modelos de IA via OpenRouter. Ele responde em português ou inglês, com sotaque brasileiro ou americano, e possui interface interativa via Streamlit.
+
+🔗 **Acesse o app online:** [https://bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)
 
 ---
 
@@ -24,19 +29,13 @@ Este projeto é um ChatBot inteligente com suporte a voz, microfone e integraç�
 ## 🛠️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/chatbot-voz-ia.git
-cd chatbot-voz-ia
+git clone https://github.com/LeandroTimoteo/chatbot-python.git
+cd chatbot-python
 pip install -r requirements.txt
 
-🔐 Configuração
-Crie um arquivo .env com sua chave da API:
-OPENROUTER_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
+https://bit.ly/4gFaLUA
 
-▶️ Como rodar
-streamlit run modules/app.py
-
-📦 Estrutura do Projeto
-chatbot-voz-ia/
+chatbot-python/
 ├── modules/
 │   ├── app.py
 │   ├── speak.py
@@ -44,6 +43,8 @@ chatbot-voz-ia/
 │   ├── online.py
 ├── env/
 │   └── .env
+├── images/
+│   └── 1.png
 ├── requirements.txt
 └── README.md
 
@@ -56,22 +57,3 @@ Seletor de estilo de voz
 
 Histórico de conversa com IA
 
-📄 Licença
-Este projeto é open-source sob a licença MIT.
-
-Autor: Analista de Sistemas Leandro Timóteo
-
-https://bit.ly/4gFaLUA
-
-
-
-
-
-
-
-
-
-
-=======
-# chatbot-python
->>>>>>> 4948e7b78464466545cdd00a6767347ea1454e46

@@ -106,5 +106,20 @@ Agradeço à comunidade Python e aos desenvolvedores da OpenRouter e Streamlit p
 - 📱 **WhatsApp:** [Enviar uma Mensagem](https://wa.me/5583987830223)
 
 
+## 🖼️ Capturas de Tela
+
+<p align="center">
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191458.png?raw=true" width="800" alt="Tela 1 do Pity-AI" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191839.png?raw=true" width="800" alt="Tela 2 do Pity-AI" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/ilustracao-de-icone-de-chatbot-vetorial_1058698-1480.jpg?raw=true" width="300" alt="Ícone do Chatbot" />
+</p>
+
+
 
 

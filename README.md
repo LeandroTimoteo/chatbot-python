@@ -22,8 +22,6 @@
 
 Sistema inteligente de conversação com suporte a voz, integração com modelos de IA via OpenRouter e interface interativa via Streamlit. Ideal para aplicações em atendimento, educação, produtividade e acessibilidade.
 
-🔗 **Acesse o app online:** [https://bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)
-
 ---
 
 ## 🚀 Funcionalidades
@@ -88,7 +86,7 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 ## 📬 Contato
 **Analista de Sistemas:** Leandro Timóteo Silva
 
-- ## 📬 Contato
+## 📬 Contato
 
 **Analista de Sistemas:** Leandro Timóteo Silva
 
@@ -96,13 +94,13 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 - 💼 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/leandro-timóteo-ads)  
 - 📱 **WhatsApp:** [Enviar uma mensagem](https://wa.me/5583987830223)
 
-
-p align="center">
+<p align="center">
   <a href="https://bit.ly/4gFaLUA" target="_blank">
-    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura de tela 2025-09-21 191458.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
+    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191458.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
   </a>
 </p>
 
+🔗 **Acesse o app online:** [https://bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)
 ## 🎥 Demonstração em Vídeo
 
 <p align="center">
@@ -110,5 +108,6 @@ p align="center">
     <img src="https://img.shields.io/badge/Assistir-Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" />
   </a>
 </p>
+
 
 

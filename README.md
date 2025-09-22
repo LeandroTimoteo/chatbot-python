@@ -76,7 +76,8 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 📄 Licença
 Este projeto é open-source sob a licença MIT.
 
-📬 Contato: Analalista de Sistemas:  Leandro Timóteo Silava
+📬 Contato:- Analista de Sistemas:  Leandro Timóteo Silva
+
 
 
 [![E-mail](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:leandrinhots6@gmail.com)  
@@ -88,6 +89,23 @@ Agradeço à comunidade Python e aos Desenvolvedores da OpenRouter e Streamlit p
 
 ## 🎥 Demonstração em Vídeo
 
-📽️ Assista ao vídeo de demonstração do Pity-AI:
+<p align="center">
+  <video width="800" controls>
+    <source src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-ia.mp4?raw=true" type="video/mp4">
+    Seu navegador não suporta a reprodução de vídeo.
+  </video>
+</p>
 
-[▶️ Clique aqui para ver o vídeo](https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-IA.mp4?raw=true)
+<p align="center">
+  <a href="https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-ia.mp4?raw=true" target="_blank">
+    <img src="https://img.shields.io/badge/Assistir-Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" />
+  </a>
+</p>
+
+
+
+
+
+
+
+

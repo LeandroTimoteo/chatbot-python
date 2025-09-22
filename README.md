@@ -82,32 +82,24 @@ O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido 
 
 Este projeto foi criado com foco em acessibilidade, experiência do usuário e integração rápida com APIs modernas.
 
-## 📬 Contato
-**Analista de Sistemas:** Leandro Timóteo Silva
 
-
-**Analista de Sistemas:** Leandro Timóteo Silva
+**Analista de Sistemas:** Leandro Timóteo Silva  
 
 - 📧 **E-mail:** [leandrinhots6@gmail.com](mailto:leandrinhots6@gmail.com)  
-- 💼 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/leandro-timóteo-ads)  
-- 📱 **WhatsApp:** [Enviar uma mensagem](https://wa.me/5583987830223)
-
+- 💼 **LinkedIn:** [linkedin.com/in/leandro-timóteo-ads](https://www.linkedin.com/in/leandro-timóteo-ads)  
+- 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5583987830223)  
 
 <p align="center">
   <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191458.png?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
 </p>
 
+🔗 **Acesse o app online:** [bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)  
 
-🔗 **Acesse o app online:** [https://bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)
-
-## 🎥 Demonstração em Vídeo
+## 🎥 Demonstração em Vídeo  
 
 <p align="center">
   <a href="https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-ia.mp4?raw=true" target="_blank">
-    <img src="https://img.shields.io/badge/Assistir-Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" />
+    <img src="https://img.shields.io/badge/Assistir%20Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" />
   </a>
 </p>
-
-
-
 

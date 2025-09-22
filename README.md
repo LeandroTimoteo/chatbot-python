@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://bit.ly/4gFaLUA" target="_blank">
+    <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/ilustracao-de-icone-de-chatbot-vetorial_1058698-1480.jpg?raw=true" width="800" alt="Imagem de capa do ChatBot com robô e celular" />
+  </a>
+</p>
+
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green?logo=openai)
@@ -75,15 +82,6 @@ O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido 
 
 Este projeto foi criado com foco em acessibilidade, experiência do usuário e integração rápida com APIs modernas.
 
-🎥 Demonstração em Vídeo
-<p align="center"> <a href="https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-ia.mp4?raw=true" target="_blank"> <img src="https://img.shields.io/badge/Assistir-Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" /> </a> </p>
-
-🖼️ Capturas de Tela
-<p align="center"> <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191458.png?raw=true" width="800" alt="Tela 1 do Pity-AI" /> </p>
-
-<p align="center"> <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191839.png?raw=true" width="800" alt="Tela 2 do Pity-AI" /> </p>
-
-<p align="center"> <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/ilustracao-de-icone-de-chatbot-vetorial_1058698-1480.jpg?raw=true" width="300" alt="Ícone do Chatbot" /> </p>
 
 ## 📬 Contato
 

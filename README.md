@@ -69,8 +69,6 @@ Pyttsx3
 
 SpeechRecognition
 
-dotenv
-
 📘 Sobre o Projeto
 O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido em Python com Streamlit. Ele utiliza modelos de linguagem via OpenRouter para gerar respostas naturais e contextuais, podendo ser usado em português ou inglês com sotaques ajustáveis.
 
@@ -95,9 +93,6 @@ Analista de Sistemas: Leandro Timóteo Silva
 
 📱 WhatsApp: Enviar uma Mensagem
 
-🙌 Agradecimentos
-Agradeço à comunidade Python e aos Desenvolvedores da OpenRouter e Streamlit por fornecerem ferramentas incríveis que tornam projetos como este possíveis.
 
- 🚀📘🤖
 
 ok 

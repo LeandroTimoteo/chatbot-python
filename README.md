@@ -113,3 +113,5 @@ git add README.md
 git commit -m "Limpa e organiza README final"
 git push origin main
 Se quiser, posso revisar o visual direto no GitHub com você. Bora deixar o Pity-AI com uma apresentação de primeira! 🚀📘🤖
+
+ok 

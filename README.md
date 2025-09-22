@@ -37,11 +37,7 @@ pip install -r requirements.txt
 
 
 Crie o arquivo .env com sua chave da API:
-
-env
-OPENROUTER_API_KEY=sk-xxxxxxxxxxxxxxxxxx
-
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Execute o app:
 
 bash
@@ -100,18 +96,8 @@ Analista de Sistemas: Leandro Timóteo Silva
 📱 WhatsApp: Enviar uma Mensagem
 
 🙌 Agradecimentos
-Agradeço à comunidade Python e aos desenvolvedores da OpenRouter e Streamlit por fornecerem ferramentas incríveis que tornam projetos como este possíveis.
+Agradeço à comunidade Python e aos Desenvolvedores da OpenRouter e Streamlit por fornecerem ferramentas incríveis que tornam projetos como este possíveis.
 
-Código
-
----
-
-Agora é só colar esse conteúdo no seu `README.md`, salvar e executar:
-
-```bash
-git add README.md
-git commit -m "Limpa e organiza README final"
-git push origin main
-Se quiser, posso revisar o visual direto no GitHub com você. Bora deixar o Pity-AI com uma apresentação de primeira! 🚀📘🤖
+ 🚀📘🤖
 
 ok 

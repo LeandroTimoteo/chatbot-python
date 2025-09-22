@@ -36,12 +36,13 @@ cd chatbot-python
 pip install -r requirements.txt
 
 
-Crie o arquivo .env com sua chave da API:
+# Crie o arquivo .env com sua chave da API:
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Execute o app:
 
-bash
+# bash
 streamlit run modules/app.py
+
 📦 Estrutura do Projeto
 Código
 chatbot-python/
@@ -59,7 +60,7 @@ chatbot-python/
 ├── requirements.txt
 └── README.md
 🧰 Tecnologias Utilizadas
-Python 3.10
+Python 3.12
 
 Streamlit
 
@@ -84,15 +85,13 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 
 <p align="center"> <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/ilustracao-de-icone-de-chatbot-vetorial_1058698-1480.jpg?raw=true" width="300" alt="Ícone do Chatbot" /> </p>
 
-📬 Contato
-Analista de Sistemas: Leandro Timóteo Silva
+## 📬 Contato
 
-📧 E-mail: leandrinhots6@gmail.com
+**Analista de Sistemas:** Leandro Timóteo Silva
 
-💼 LinkedIn: Meu Perfil no LinkedIn
-
-📱 WhatsApp: Enviar uma Mensagem
-
+- 📧 **E-mail:** [leandrinhots6@gmail.com](mailto:leandrinhots6@gmail.com)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/leandro-timóteo-ads](https://www.linkedin.com/in/leandro-timóteo-ads)  
+- 📱 **WhatsApp:** [Enviar uma Mensagem](https://wa.me/5583987830223)
 
 
-ok 
+

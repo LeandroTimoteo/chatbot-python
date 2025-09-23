@@ -23,7 +23,7 @@ Sistema inteligente de conversação com suporte a voz, integração com modelos
 
 ---
 
-## 🚀 Funcionalidades
+#🚀 Funcionalidades
 
 - 🎤 Entrada por voz e texto  
 - 🧠 Respostas geradas por IA (OpenRouter)  
@@ -35,8 +35,9 @@ Sistema inteligente de conversação com suporte a voz, integração com modelos
 ---
 
 ## 🛠️ Instalação
+bash
 
-```bash
+bash
 git clone https://github.com/LeandroTimoteo/chatbot-python.git
 cd chatbot-python
 pip install -r requirements.txt
@@ -46,10 +47,10 @@ pip install -r requirements.txt
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Execute o app:
 
-# bash
+ Bash
 streamlit run modules/app.py
 
-📦 Estrutura do Projeto
+📦 # Estrutura do Projeto
 Código
 chatbot-python/
 ├── modules/
@@ -66,7 +67,7 @@ chatbot-python/
 ├── requirements.txt
 └── README.md
 
-🧰 Tecnologias Utilizadas
+🧰  Tecnologias Utilizadas
 Python 3.12
 
 Streamlit
@@ -77,12 +78,10 @@ Pyttsx3
 
 SpeechRecognition
 
-📘 Sobre o Projeto
+📘 # Sobre o Projeto
 O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido em Python com Streamlit. Ele utiliza modelos de linguagem via OpenRouter para gerar respostas naturais e contextuais, podendo ser usado em português ou inglês com sotaques ajustáveis.
 
 Este projeto foi criado com foco em acessibilidade, experiência do usuário e integração rápida com APIs modernas.
-
-
 
 ## 👤 Contato
 
@@ -92,35 +91,19 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 - 💼 **LinkedIn:** [linkedin.com/in/leandro-timóteo-ads](https://www.linkedin.com/in/leandro-timóteo-ads)  
 - 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5583987830223)
 
----
-
 <p align="center">
-  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191458.png?raw=true" width="800" alt="Interface do ChatBot com voz e estilo BRL/USA" />
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/demo.gif?raw=true" width="800" alt="Demonstração animada do ChatBot" />
 </p>
 
----
-
-## 🔗 Acesse o App Online
-
-👉 [bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)
-
----
-
-## 🎥 Demonstração em Vídeo
-
-<p align="center">
-  <a href="https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-ia.mp4?raw=true" target="_blank">
-    <img src="https://img.shields.io/badge/Assistir-Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" />
-  </a>
-</p>
-
----
-
-## 🗂️ Histórico de Desenvolvimento
-
-🔖 [Issue #1 – Chatbot Pity - IA BRL & U.S.A](https://github.com/LeandroTimoteo/chatbot-python/issues/1#issue-3444741386)
 
 
 
 
 
+
+<
+
+
+
+
+v

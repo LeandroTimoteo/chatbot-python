@@ -83,26 +83,43 @@ O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido 
 Este projeto foi criado com foco em acessibilidade, experiência do usuário e integração rápida com APIs modernas.
 
 
-👤 Contato
-Analista de Sistemas: Leandro Timóteo Silva
 
-📧 E-mail: leandrinhots6@gmail.com
+## 👤 Contato
 
-💼 LinkedIn: linkedin.com/in/leandro-timóteo-ads
+**Analista de Sistemas:** Leandro Timóteo Silva  
 
-📱 WhatsApp: Enviar mensagem
+- 📧 **E-mail:** [leandrinhots6@gmail.com](mailto:leandrinhots6@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/leandro-timóteo-ads](https://www.linkedin.com/in/leandro-timóteo-ads)  
+- 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5583987830223)
 
-🖼️ Interface do ChatBot
-<p align="center"> <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191458.png?raw=true" width="800" alt="Interface do ChatBot com voz e estilo BRL/USA" /> </p>
+---
 
-🔗 Acesse o App Online
-👉 bit.ly/4gFaLUA
+<p align="center">
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Captura%20de%20tela%202025-09-21%20191458.png?raw=true" width="800" alt="Interface do ChatBot com voz e estilo BRL/USA" />
+</p>
 
-🎥 Demonstração em Vídeo
-<p align="center"> <a href="https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-ia.mp4?raw=true" target="_blank"> <img src="https://img.shields.io/badge/Assistir-Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" /> </a> </p>
+---
 
-🗂️ Histórico de Desenvolvimento
-Este projeto está sendo acompanhado via GitHub Issues: 🔖 Issue #1 – Chatbot Pity - IA BRL & U.S.A
+## 🔗 Acesse o App Online
+
+👉 [bit.ly/4gFaLUA](https://bit.ly/4gFaLUA)
+
+---
+
+## 🎥 Demonstração em Vídeo
+
+<p align="center">
+  <a href="https://github.com/LeandroTimoteo/chatbot-python/blob/main/videos/chatbot-ia.mp4?raw=true" target="_blank">
+    <img src="https://img.shields.io/badge/Assistir-Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir vídeo de demonstração" />
+  </a>
+</p>
+
+---
+
+## 🗂️ Histórico de Desenvolvimento
+
+🔖 [Issue #1 – Chatbot Pity - IA BRL & U.S.A](https://github.com/LeandroTimoteo/chatbot-python/issues/1#issue-3444741386)
+
 
 
 

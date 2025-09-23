@@ -79,6 +79,13 @@ O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido 
 
 Este projeto foi criado com foco em acessibilidade, experiência do usuário e integração rápida com APIs modernas.
 
+<p align="center">
+  <a href="https://bit.ly/4gFaLUA" target="_blank">
+    <img src="https://img.shields.io/badge/Abrir%20Projeto-Streamlit-blue?style=for-the-badge&logo=streamlit" alt="Abrir Projeto Pity-IA" />
+  </a>
+</p>
+
+
 ## 👤 Contato
 
 **Analista de Sistemas:**  Leandro Timóteo Silva  

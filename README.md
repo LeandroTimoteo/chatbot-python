@@ -1,4 +1,4 @@
-# 🤖 ChatBot com Voz — Pity-IA BRL & U.S.A
+# 🤖 ChatBot com Voz Pity IA BRL & U.S.A
 
 <p align="center">
   <a href="https://bit.ly/4gFaLUA" target="_blank">
@@ -23,7 +23,7 @@ Sistema inteligente de conversação com suporte a voz, integração com modelos
 
 ---
 
-#🚀 Funcionalidades
+🚀 Funcionalidades
 
 - 🎤 Entrada por voz e texto  
 - 🧠 Respostas geradas por IA (OpenRouter)  
@@ -36,15 +36,11 @@ Sistema inteligente de conversação com suporte a voz, integração com modelos
 
 ## 🛠️ Instalação
 bash
-
-bash
-git clone https://github.com/LeandroTimoteo/chatbot-python.git
 cd chatbot-python
 pip install -r requirements.txt
 
 
-# Crie o arquivo .env com sua chave da API:
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+# Crie o arquivo .env com sua chave da API: XXXXXXXXXXXXXX
 Execute o app:
 
  Bash
@@ -78,32 +74,31 @@ Pyttsx3
 
 SpeechRecognition
 
-📘 # Sobre o Projeto
+📘 Sobre o Projeto
 O Pity-AI é um chatbot multilíngue com entrada e saída por voz, desenvolvido em Python com Streamlit. Ele utiliza modelos de linguagem via OpenRouter para gerar respostas naturais e contextuais, podendo ser usado em português ou inglês com sotaques ajustáveis.
 
 Este projeto foi criado com foco em acessibilidade, experiência do usuário e integração rápida com APIs modernas.
 
 ## 👤 Contato
 
-**Analista de Sistemas:** Leandro Timóteo Silva  
+**Analista de Sistemas:**  Leandro Timóteo Silva  
 
 - 📧 **E-mail:** [leandrinhots6@gmail.com](mailto:leandrinhots6@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/leandro-timóteo-ads](https://www.linkedin.com/in/leandro-timóteo-ads)  
 - 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5583987830223)
 
+
+
+🎬 Demonstração Animada
+<p align="center"> <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/demo.gif?raw=true" width="800" alt="Demonstração animada do ChatBot Pity-IA" /> </p>
+
+
+
 <p align="center">
-  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/demo.gif?raw=true" width="800" alt="Demonstração animada do ChatBot" />
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/chatbot-icon.png?raw=true" width="300" alt="Ícone estilizado do ChatBot Pity IA" />
 </p>
 
 
+<img src="images/demo.gif" width="800" />
+<img src="images/chatbot-icon.png" width="300" />
 
-
-
-
-
-<
-
-
-
-
-v

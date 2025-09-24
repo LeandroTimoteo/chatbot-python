@@ -95,10 +95,10 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 - 💼 **LinkedIn:** [linkedin.com/in/leandro-timóteo-ads](https://www.linkedin.com/in/leandro-timóteo-ads)  
 - 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5583987830223)
 
-
 <p align="center">
   <a href="https://bit.ly/4gFaLUA" target="_blank">
     <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Copilot_20250921_194729.png?raw=true" width="400" alt="Clique para abrir o ChatBot Pity-IA" />
   </a>
 </p>
+
 

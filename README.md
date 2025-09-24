@@ -81,12 +81,13 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 
 <p align="center">
   <a href="https://bit.ly/4gFaLUA" target="_blank">
-    <img src="https://img.shields.io/badge/Abrir%20Projeto-Streamlit-blue?style=for-the-badge&logo=streamlit" alt="Abrir Projeto Pity-IA" />
+    <img src="https://img.shields.io/badge/Abrir%20Chatbot-Pity--IA-blue?style=for-the-badge&logo=streamlit" alt="Abrir Projeto Pity-IA" />
   </a>
 </p>
 
 
-## 👤 Contato
+
+## 👤 Contato:
 
 **Analista de Sistemas:**  Leandro Timóteo Silva  
 
@@ -94,18 +95,10 @@ Este projeto foi criado com foco em acessibilidade, experiência do usuário e i
 - 💼 **LinkedIn:** [linkedin.com/in/leandro-timóteo-ads](https://www.linkedin.com/in/leandro-timóteo-ads)  
 - 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5583987830223)
 
-
-
-🎬 Demonstração Animada
-<p align="center"> <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/demo.gif?raw=true" width="800" alt="Demonstração animada do ChatBot Pity-IA" /> </p>
-
-
-
 <p align="center">
-  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/chatbot-icon.png?raw=true" width="300" alt="Ícone estilizado do ChatBot Pity IA" />
+  <img src="https://github.com/LeandroTimoteo/chatbot-python/blob/main/images/Copilot_20250921_194729.png?raw=true" width="300" alt="Imagem representativa do ChatBot Pity IA" />
 </p>
 
 
-<img src="images/demo.gif" width="800" />
-<img src="images/chatbot-icon.png" width="300" />
 
+<

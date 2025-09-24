@@ -15,7 +15,7 @@ from online import gerar_resposta_online
 
 # 🔧 Configuração da página
 st.set_page_config(page_title="💬 ChatBot - Brazilian Intelligence", layout="centered")
-st.title("🤖 ChatBot Pity- IA ok")
+st.title("🤖 ChatBot Pity- IA ")
 
 # 🎨 Estilo visual
 st.markdown("""
